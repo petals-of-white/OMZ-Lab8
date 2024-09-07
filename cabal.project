@@ -1,7 +1,12 @@
 optimization: False
 
 packages:
-    OMZ-Lab8, dicom
+    OMZ-Lab8
+
+source-repository-package
+    type: git
+    location: https://github.com/petals-of-white/dicom-haskell-library.git
+    tag: beecc4e
 
 package nanovg
     flags: +stb_truetype
