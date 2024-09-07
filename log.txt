@@ -1,0 +1,853 @@
+3.2.0 - Build 31.0.101.5592
+shader compiled
+shader compiled
+Program linked
+Program validated
+transmat set
+samplers 2d set
+shader compiled
+shader compiled
+Program linked
+Program validated
+transmat set
+samplers 2d set
+samplers 2d set
+Nothing to Render.
+Nothing to Render.
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+WinSize:Size {_sW = 644.8, _sH = 792.8}. Active VP::Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Node content area: Rect {_rX = 0.0, _rY = 0.0, _rW = 644.8, _rH = 792.8}. Dpr: 1.25
+Texture coords: [(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = 1.0},Point {_pX = 0.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = 1.0},Point {_pX = 1.0, _pY = 1.0}),(Point {_pX = 1.0, _pY = -1.0},Point {_pX = 1.0, _pY = 0.0}),(Point {_pX = -1.0, _pY = -1.0},Point {_pX = 0.0, _pY = 0.0})]
+vertices: [-1.0,-1.0,0.0,0.0,-1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,0.0,-1.0,-1.0,0.0,0.0]
+samplers 2d set
+samplers 2d set
+Disposing...
+disposed
